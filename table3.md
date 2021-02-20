@@ -1,7 +1,7 @@
 # Comparisons among recent PDE systems for mobile devices
 | Name  | publication year| PDE technique | storage layer | secure | Compatiable with the architecture of mainstream mobile devices | scalable | user-oriented |
 | ------------- | ------------- | ------------- | ------------- | :---: | :---: | :---: | :---: |
-| MobiFlage[31], [32]  | 2013  | hidden volume | block device | no | yes | yes | yes |
+| MobiFlage[1], [2]  | 2013  | hidden volume | block device | no | yes | yes | yes |
 | MobiHydra[37]  | 2014  | hidden volume | block device | no | yes | yes | yes |
 | MobiPluto[10], [11]  | 2015  | hidden volume | block device | no | yes | yes | yes |
 | DEFY[30]  | 2015  | steganography | flash file system | partially | no | yes | yes |
@@ -14,3 +14,4 @@
 | Our work  | -  | hidden volume | full path | yes | yes | yes | yes |
 
 [1] Adam Skillen and Mohammad Mannan. On implementing deniable storage encryption for mobile devices. In 20th Annual Network and Distributed System Security Symposium, NDSS 2013, San Diego, California, USA, February 24-27, 2013.
+[2] Adam Skillen and Mohammad Mannan. Mobiflage: Deniable storage encryptionfor mobile devices. IEEE Transactions on Dependable and Secure Computing, 11(3):224–237, 2014.
