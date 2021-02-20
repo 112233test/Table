@@ -31,7 +31,7 @@
 
 <span id="mobiceal">[9] [Bing Chang, Fengwei Zhang, Bo Chen, Yingjiu Li, Wen-Tao Zhu, Yangguang Tian, Zhan Wang, and Albert Ching. Mobiceal: Towards secure and practical plausibly deniable encryption on mobile devices. In 2018 48th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), pages 454–465. IEEE, 2018.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8416506)</span>
 
-<span id="mobigyges">[10] [Wendi Feng, Chuanchang Liu, Zehua Guo, Thar Baker, Gang Wang, Meng Wang, Bo Cheng, and Junliang Chen. Mobigyges: A mobile hidden volume for preventing data loss, improving storage utilization, and avoiding device reboot. Future Generation Computer Systems, 2020 (https://www.sciencedirect.com/science/article/pii/S0167739X1932521X)</span>
+<span id="mobigyges">[10] [Wendi Feng, Chuanchang Liu, Zehua Guo, Thar Baker, Gang Wang, Meng Wang, Bo Cheng, and Junliang Chen. Mobigyges: A mobile hidden volume for preventing data loss, improving storage utilization, and avoiding device reboot. Future Generation Computer Systems, 2020](https://www.sciencedirect.com/science/article/pii/S0167739X1932521X)</span>
 
 <span id="infuse">[11] [Chen Chen, Anrin Chakraborti, and Radu Sion. Infuse: Invisible plausibly-deniable file system for nand flash. Proceedings on Privacy Enhancing Technologies, 4:239–254, 2020.](https://content.sciendo.com/view/journals/popets/2020/4/article-p239.xml?language=en)</span>
 
